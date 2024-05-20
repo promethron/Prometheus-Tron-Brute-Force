@@ -35,4 +35,4 @@ If a wallet with a non-zero balance is found, its information will also be appen
 This script is provided for educational purposes only. Using this script to access wallets that you do not own may be illegal and unethical. The creator of this script is not responsible for any misuse or damage resulting from the use of this script.
 
 # Reporting Issues
-If you encounter any issues while using this script, please report them https://t.me/PrometheusSupport           
+If you encounter any issues while using this script, please report them https://t.me/PrometheusSupport            
