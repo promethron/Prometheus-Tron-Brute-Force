@@ -36,4 +36,3 @@ This script is provided for educational purposes only. Using this script to acce
 
 # Reporting Issues
 If you encounter any issues while using this script, please report them https://t.me/PrometheusSupport                    
-​
